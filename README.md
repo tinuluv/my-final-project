@@ -25,6 +25,4 @@ This is a Python GUI application built with Tkinter that allows users to enter, 
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository or download the ZIP.
-3. Run the main Python file:
-   ```bash
-   python main.py
+3. Run the main Python file
