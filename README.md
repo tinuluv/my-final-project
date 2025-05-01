@@ -3,7 +3,7 @@
 
 This is a Python GUI application built with Tkinter that allows users to enter, analyze, save, and view income data. It also features easy navigation through a main menu interface.
 
-## 💡 Features
+## Features
 
 - **Income Entry**: Users can input different sources of income.
 - **Income Analysis**: Basic summary or breakdown of entered income.
@@ -22,7 +22,7 @@ This is a Python GUI application built with Tkinter that allows users to enter, 
 ![Income Entry](screenshots/income_entry.png)
 ![View Income](screenshots/view_income.png)
 
-##  How to Run
+## How to Run
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository or download the ZIP.
