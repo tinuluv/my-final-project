@@ -1,4 +1,3 @@
-# my-final-project
 # personal_finance_income_tracker.py
 
 This is a Python GUI application built with Tkinter that allows users to enter, analyze, save, and view income data. It also features easy navigation through a main menu interface.
