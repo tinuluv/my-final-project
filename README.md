@@ -17,10 +17,9 @@ This is a Python GUI application built with Tkinter that allows users to enter, 
 - Tkinter (GUI)
 
 ##  Screenshots
+![Screenshot 2025-05-01 151715](https://github.com/user-attachments/assets/ac11e951-7613-45d3-ab52-2586a42ff5f3)
 
-![Main Menu](screenshots/main_menu.png)
-![Income Entry](screenshots/income_entry.png)
-![View Income](screenshots/view_income.png)
+
 
 ## How to Run
 
