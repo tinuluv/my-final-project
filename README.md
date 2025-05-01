@@ -11,18 +11,18 @@ This is a Python GUI application built with Tkinter that allows users to enter, 
 - **View Records**: View saved income entries in a user-friendly format.
 - **Main Menu Navigation**: Navigate smoothly between different sections of the app.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python 3
 - Tkinter (GUI)
 
-## 🖼 Screenshots
+##  Screenshots
 
 ![Main Menu](screenshots/main_menu.png)
 ![Income Entry](screenshots/income_entry.png)
 ![View Income](screenshots/view_income.png)
 
-## 🚀 How to Run
+##  How to Run
 
 1. Make sure you have Python 3 installed.
 2. Clone this repository or download the ZIP.
